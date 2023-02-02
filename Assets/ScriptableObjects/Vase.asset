@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a97a95aca4e4fa449926467143022969, type: 3}
+  m_Name: Vase
+  m_EditorClassIdentifier: 
+  ItemName: OrosVase
+  ItemImage: {fileID: 21300000, guid: 96b9254fd33e9a049a483afc4e164832, type: 3}
+  ItemDescription: Golden Vase
+  Item3DModel: {fileID: 8540511357516101351, guid: 70a7bfc0edf4b6844bb52ff015b8b20d,
+    type: 3}
